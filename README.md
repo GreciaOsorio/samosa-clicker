@@ -8,6 +8,6 @@ A silly "Cookie Clicker" style webpage. The main goal of this page was to learn 
 
 # How to View
 1. Download the Repo
-2. Enter the second samosa-clicker folder
+2. Enter the samosa-selector folder
 3. In Terminal type: npm install
 4. To start up the page in your browser, in Terminal type: npm run dev
